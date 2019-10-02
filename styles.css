@@ -1,92 +1,118 @@
-body,html {
-    background-color: #f6f6f6;
-
+body, html{
+    background-color: black;
+    margin-top: 70px;
 }
 
-#painting {
+#painting{
     background-color: #fff4db;
     width: 400px;
-    height: 400px;
+    height:400px;
     margin-top: 30px;
     margin-left: auto;
-    margin-right: auto ;
-   box-shadow: 10px 10px 0px #8d8d8d
+    margin-right: auto;
+    box-shadow: 10px 10px 0px grey;
 }
-    #toprow {
-        height: 290px;
-    }
 
-    #bigbox {
-        width: 290px;
-        height: 290px;
-    }
+#toprow{
+    height: 290px;
+}
 
-    .red {
-        background-color:red;
-    }
+#bigbox{
+    width: 290px;
+    height: 290px;
+}
 
-    .blue {
-        background-color: blue; 
-    }
-    .yellow {
-        background-color: yellow;   
-    }
-    .black {
-        background-color: black;   
-    }
+.red{
+    background-color: red;
+}
 
-    .right {
-        float: right;
-    }
-    .left {
-        float: left;
-    }
+.blue{
+    background-color: blue;
+}
 
-    #divider1 {
-        height: 290px;
-        width: 10px;
-    }
+.yellow{
+    background-color: yellow;
+}
 
-    .mediumbox {
-        width: 100px;
-        height: 140px;
-    }
-    
-    #divider2 {
-        height: 10px;
-        width: 100px;
-    }
+.black{
+    background-color: black;
+}
 
-    #middlerow {
-        height: 10px;
-        width: 400px;
-    }
+.right{
+    float: right;
+}
 
+#divider1{
+    height: 300px;
+    width: 10px;
+}
 
-    #bottombox {
-        height: 100px;
-        width: 100px;
-        float: left;
-    }
+.mediumbox{
+    width: 100px;
+    height: 140px;
+}
 
-    #divider3 {
-        height: 100px;
-        width: 10px;
-        float: left;
-    }
+#divider2{
+    height: 10px;
+    width: 100px;
+}
 
-    #divider4 {
-        height: 100px;
-        width: 10px;
-        
-       }
+#middlerow{
+    height: 10px;
+    width: 400px;
+    background-color: black
+}
 
+.aqua{
+    background-color: aqua
+}
 
-    #middlebox {
-        height: 100px;
-        width: 260px;
-    }
+.lightblue{
+    background-color: lightblue;
+}
 
-    #smallbox {
-        height
-    }
+#longbox{
+    height: 100px;
+    width: 180px;
+}
+
+#smallbox{
+    height: 100px;
+    width: 100px;
+}
+
+#bottomrow{
+    height: 100px;
+    width: 400px;
+}
+
+.lightgreen{
+    background-color: lightgreen;
+}
+
+#divider3{
+    height: 100px;
+    width: 10px;
+}
+
+.midnightblue{
+    background-color: midnightblue;
+}
+
+.margin-top{
+    margin-top: 45px;
+}
+
+#smallboxx{
+    height: 100px;
+    width: 90px;
+}
+
+.purple{
+    background-color: purple;
+}
+
+#divider4{
+    height: 10px;
+    width: 100px;
+}
