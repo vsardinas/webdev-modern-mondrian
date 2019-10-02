@@ -86,8 +86,12 @@ body, html{
     width: 400px;
 }
 
-.lightgreen{
-    background-color: lightgreen;
+.peachpuff{
+    background-color: peachpuff;
+}
+
+.pink{
+    background-color: pink;
 }
 
 #divider3{
@@ -95,8 +99,8 @@ body, html{
     width: 10px;
 }
 
-.midnightblue{
-    background-color: midnightblue;
+.orange{
+    background-color: orange;
 }
 
 .margin-top{
